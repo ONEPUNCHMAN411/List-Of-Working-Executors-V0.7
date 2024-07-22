@@ -1,0 +1,13 @@
+Here is Apple Ware Tutorial For Those Who Need It (Only For Ios)
+
+1. Download The AppleWare Ipa
+
+2. Download Scarlet From This Website: https://usescarlet.com
+
+3. Install Scarlet and Allow it by going to Setting>General>vpn Management> Alow This app/ Certificate
+
+4. Open scarlet and go to the download icon and select the appleware ipa file
+
+5. Wait For It To instal and allow it to install
+
+6. Enjoy If it doesnt Work Make Sure To Download the atest Version From the Apple Ware Website

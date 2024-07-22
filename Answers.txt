@@ -1,0 +1,85 @@
+What Executor should i use?
+
+1. Use Codex if you are a beginner it has a user friendly interface and is easy to use
+
+2. For advanced/ Experienced you probably shouldn't be asking this question but i would use Fluxus delta or Solara
+
+3. It could also depend on whether you want a pc executor or a emulator executor Pc ones don't have as many supported scripts as there are only 2 that work right now so for beginners i would use an emulator and use an executor that way
+
+4. Your choice which ever one sticks out or you ike use that one i would test them all and use the one you like best
+
+
+What is an Executor? 
+An executor is a external or internal Roblox tool that allows a user to run scripts to gain an advantage!
+
+
+How To Use And/or Download an executor for pc?
+
+Most Executors are pretty easy to download But for those who are new this is for You
+
+1. Download an Emulator (Ignore If you are on mobile) - Some good ones are: Blue stacks and Ld. Player!
+
+2. Download One of the Executors Above On the Emulator!
+
+3. Open the file that you have Downloaded on your executor!
+
+5. Login into your desired Roblox account! I would recommend using an alt so you do not get your main Banned.
+
+6. Do the Key system - https://www.youtube.com/watch?v=Ejb1cCs5QRI
+
+7. Get yourself a script for your desired game!
+
+8. Paste the script into your executor and click execute or run!
+
+9. Have Fun!
+
+10. If you cannot figure out how to download an emulator here is a video link on how to: https://www.youtube.com/watch?v=oDdRbAqDtIM
+
+11. Here is a video tutorial on how to download Evon Android: https://www.youtube.com/watch?v=xAp6r7-JEUE
+
+12. Video Tutorial For Codex WITH key system tutorial: https://www.youtube.com/watch?v=glgsFLSKbhI
+
+13. Fluxus Video Tutorial: https://www.youtube.com/watch?v=PGady3asnvM
+
+What Is an Emulator?
+
+1. An Emulator is Something that creates a virtual android device accessible to the user
+
+2. Some emulator May emulate ios devices fi this is the case 
+
+
+Why does it not work?!
+
+1. You may have not downloaded an emulator if you are on pc Because Most of the Executors listed above are An APK meaning its only supported on android So we use an emulator to create an android device straight from our Pc!
+
+2. The executor sometimes needs to update, wait a few days to see if the problem is resolved
+
+3. Try to re Follow My tutorial and see if you missed anything every step is important!
+
+4. Roblox may have released an update so make sure to wait for your executor update and here is the fix for delta since most people wanna use that for some reason: https://www.youtube.com/watch?v=9eqR1LMB4eA or https://www.youtube.com/watch?v=-Jak3TmxuDc
+
+
+Is there Any External Executors without requiring an emulator?
+
+1. Yes, Wave is an paid external executor that doesn't require an emulator HOWEVER it may be not be worth it as most scripts are still not supported on this executor and it is pretty sketchy compared to the mobile executors!
+
+2. The link to BUY Wave is right here: https://roxploits.sellsn.io
+
+3. Wave installer may crash half way through downloading if this is so please make sure to try again with your anti-Virus disabled 
+
+(Any other questions regarding The executors or bugs will be helped by this user: tennis_prince)
+
+
+Extra:
+
+1. Solara is a work in progress it is a GitHub and a website and many scripts do not support its type of executions and code.
+
+2. Not all key systems have the same type of way to get a key some keys may require you to pay the following listed executors do not require payment for additional Executor's  check the Logs at the bottom of this guide.
+
+3. Some scripts may not be supported on your executor if this is the case then please feel free to try out my trusted scripts.
+
+4. The universal Solara script ONLY works for Solara!
+
+5. Here is a discord server for all my hacker freinds :); https://discord.gg/S4mE2s4g
+
+6. Wave discord will be linked in the logs sectio

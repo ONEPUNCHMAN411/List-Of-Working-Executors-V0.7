@@ -1,0 +1,58 @@
+v0.1 
+-Started list in jul 3
+
+v 0.2  
+- added help
+-added instructions
+
+v0.3
+- added more executors
+- added Extra tips
+- added extra help
+
+v0.4 released
+- added scripts
+- added solara
+- added more executors	
+	
+v 0.5 Has Been Released
+-ADDED WAY TO HACK ON IOS USING EMULATOR
+- fixed Script Websites
+- added wave
+- added more executors
+- Added a backup solara
+- Added Info on solara
+- added info on wave
+- added an youtube tutorial on how to download an emulator
+- Added Video tutorial for evon android
+- Added solara Video Tutorial
+- Added CodeEx Video Tutorial
+- Added Fluxus Video Tutorial
+- Moved Fluxus From Extra To Main
+- Bunch Of Bug Fixes
+- Added Link to Ai sploit server
+- Added ios supported executors
+- added universal solara script with 40+ supported games
+- Added A ton More Scripts
+- Added a disclaimer
+- Added A new Font
+- Added Extra Help
+- Added the extras section
+- Added link For Hackers discord Server
+
+V 0.6 Release
+- Added A video tutorial Of list
+- Added lots of discord servers
+- Added Workaround for Codex
+-Removed Delta
+- Removed Logs
+- Added Trusted Youtubers
+
+
+V 0.7 Release
+-add Tons Of new Scripts
+- Added Script Finder
+- Added Tons of new Executors
+- Added Emulators Section
+- Added Extra Scripts Section
+- Added a lot more That i Am too Lazy to Type 

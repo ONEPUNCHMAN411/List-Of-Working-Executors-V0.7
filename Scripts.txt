@@ -1,0 +1,285 @@
+Scripts: 
+
+BloxBurg For Wave: loadstring(game:HttpGet("https://vedrox.com/data/scripts/free/script.lua"))()
+
+
+Mps For A Side: loadstring(game:HttpGet("https://raw.githubusercontent.com/offperms/MPS4ASIDE/main/EMPLIC"))()
+
+
+Demon Blade For Wave: loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/BladeNew/main/Demon"))()
+
+
+Football Fusion: loadstring(game:HttpGet("https://raw.githubusercontent.com/devdoroz/bleachhack/main/newloader.lua"))()
+
+
+Re Xl :loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/Scripts2024/main/projxlrexl"))()
+
+
+Zombie Attack: loadstring(game:HttpGet(('https://raw.githubusercontent.com/RTrade/Voidz/main/Games.lua'),true))()
+
+
+Pillar Chase 2: loadstring(game:HttpGet('https://raw.githubusercontent.com/dqvh/dqvh/main/pillar%20chase%202.lua'))()
+
+
+Fabed Legacy: loadstring(game:HttpGet("https://raw.githubusercontent.com/Qrto1/working/main/pc"))()
+
+
+Gorilla Tag: loadstring(game:HttpGet("https://pastebin.com/raw/vhtR4Vdu"))()
+
+
+Rb World 4: loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/4ed2c8f1f6a1a9d56daab1d90912f895.lua"))()
+
+
+Flaming Hub: loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Flaming-hub-13960"))()
+
+
+Launch Into Space: loadstring(game:HttpGet('https://whimper.xyz/cathub.lua'))()
+
+
+Untitled Boxing: loadstring(game:HttpGet("https://raw.githubusercontent.com/Nyaha3222/Visualz/main/Untitled/Boxing%20/Game/Script"))()
+
+
+Demon Fall: loadstring(game:HttpGet("https://raw.githubusercontent.com/LabibKazi858/Scripts/main/DemonFall"))()
+
+
+Top Tappers: loadstring(game:HttpGet("https://scriptblox.com/raw/Top-Tappers-X-If-money-every-game-pass-13766"))()
+
+
+Mad City: loadstring(game:HttpGet("https://scriptblox.com/raw/Mad-City-Mad-city-infinite-XP-Script-2031"))()
+
+
+Piggy: loadstring(game:HttpGet("https://scriptblox.com/raw/Piggy-BREAKOUT-CHAPTER-Vynixius-4914"))()
+
+
+Shinobi Storm: loadstring(game:HttpGet("https://pastebin.com/raw/2RFgrskR"))()
+
+
+Anime Defenders: loadstring(game:HttpGet("https://scriptblox.com/raw/Anime-Defenders-RAIDS-Rollback-spin-banner-14144"))()
+
+
+Bulid A Bridge Simulator: loadstring(game:HttpGet("https://scriptblox.com/raw/Build-A-Bridge-Simulator-utoFrm-13534"))()
+
+
+Realistic Basketball: loadstring(game:HttpGet("https://raw.githubusercontent.com/DepHubHolder/DepHub1/main/Loader1"))()
+
+
+Hoop Nation; loadstring(game:HttpGet("https://raw.githubusercontent.com/DepHubHolder/DepHub1/main/Loader1"))() 
+
+
+Titan Training Simulator: loadstring(game:HttpGet("https://raw.githubusercontent.com/DepHubHolder/DepHub1/main/Loader1"))()
+
+
+Dungeon Quest: loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+
+
+SharkBite: loadstring(game:HttpGet("https://scriptblox.com/raw/STEALTH-SharkBite-2-script-13895"))()
+
+
+Ultimate Football: loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Ultimate/main/Football"))()
+only works with wave
+
+
+Track N Field: loadstring(game:HttpGet("https://raw.githubusercontent.com/RETARDWAR3/retardware-main/main/Trackandfield.lua"))()
+
+
+South Bronx: loadstring(game:HttpGet("https://raw.githubusercontent.com/4drzy/fqfqfqfqffdsewfds/main/hhfdewfds"))()
+key: fdsawdfsiahjwudhyshauwhdhisuia
+
+
+Counter Blox: loadstring(game:HttpGet("https://raw.githubusercontent.com/uedan228/Happy-Hub/main/Counter%20Blox%3A%20Source%202"))()
+
+
+Sheriff Vs Murders: loadstring(game:HttpGet("https://raw.githubusercontent.com/vermelixq/roblox-scripts/main/mvssd"))()
+
+
+Project Slayer: --Map 1
+loadstring(game:HttpGet("https://raw.githubusercontent.com/washingtontrichkid2/Newgay/main/ProjectSlayer"))()
+
+--Map 2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/washingtontrichkid2/Newgay/main/ProjectSlayerMap2"))()
+
+
+Rivals:  loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubRivals"))()
+
+
+Bedwars; loadstring(game:HttpGet("https://raw.githubusercontent.com/AlSploit/AlSploit/main/MainScript",true))()
+
+
+BloxFruits; loadstring(game:HttpGet"https://raw.githubusercontent.com/PNguyen0199/Script/main/Fai-Fao-Ver2.lua")()
+
+
+Strongest Battlegrounds; loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Saitama111/main/battle121"))()
+
+
+Anime World Tower Defense; loadstring(game:HttpGet("https://pastebin.com/raw/7Fa0T52n",true))()
+
+
+Pet Simulator X; loadstring(game:HttpGet("https://pastebin.com/raw/95HthyJq"))() 
+
+
+Pet Simulator 99; loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/PetSimulator99/main/redz9999.lua"))()
+
+
+Piggy; loadstring(game:HttpGet('https://pastebin.com/raw/ZNDQBwFy'))()
+
+
+Blade Ball; loadstring(game:HttpGet("https://pastebin.com/raw/7Fa0T52n",true))()
+
+
+Brookhaven Admin Script; loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+
+
+Toilet Tower Defense Script; loadstring(game:HttpGet("https://rawscripts.net/raw/NEW!-TOILET-TOWER-DEFENSE!-NEW-TOILET-DEFENSE-SCRIPT-9358", true))()
+
+
+Sol rng; loadstring(game:HttpGet("https://raw.githubusercontent.com/Just3itx/Backup/main/loader.lua"))()
+
+
+Doors script; loadstring(game:HttpGet('https://raw.githubusercontent.com/mazzikasjjzjzj/Key/main/DOORS%20%20%5BNEW%5D'))()
+
+
+Murder Mystery 2; loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Drifter0507/GUIS/main/MURDER%20MYSTERY%202", true))()
+
+
+Evade; loadstring(game:HttpGet('https://reddyhub.xyz/loader.html'))()
+
+
+Jail Break; loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxsta72/ProjectAuto/main/free"))()
+
+
+Phantom Forces; loadstring(syn.request({Url = "https://pastebin.com/raw/ZWb9SYv3", Method = "GET"}).Body)()
+
+
+The Strongest Battle Grounds; loadstring(game:HttpGet(('https://raw.githubusercontent.com/zeuise0002/SSSWWW222/main/README.md'),true))()
+
+
+Adopt Me; loadstring(game:HttpGet('https://gitfront.io/r/ReQiuYTPL/wFUydaK74uGx/hub/raw/ReQiuYTPLHub.lua'))()
+
+
+Counter Blox; loadstring(game:HttpGet('https://raw.githubusercontent.com/Pawel12d/hexagon/main/scripts/CounterBlox.lua', true))()
+
+
+Flee The Facilty; loadstring(game:HttpGet('https://rentry.co/9uqkr/raw'))()
+
+
+Build A boat; loadstring(game:HttpGet(('https://raw.githubusercontent.com/JustAP1ayer/BABFTPLAYERHUB/main/BABFTV2.lua'),true))()
+
+
+Da Hood; loadstring(game:HttpGet("https://raw.githubusercontent.com/spacexrandom/Lua/main/DaHood", true))()
+
+
+Arsenal; loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+
+
+Universal script for solara With 40+ Scripts i will have a list of all the games in the logs credit to Vinnydabest; Q
+
+
+Universal Script Not Supported With Solara: loadstring(game:HttpGet("https://raw.githubusercontent.com/Orangecatgamer696969/Fly.lua/main/README.md"))()
+
+
+Arsenal Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubMurderMystery2"))()
+
+
+Training Simulator Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/YourWaifuAstolfo/myscripts/main/Training%20Simulator.lua"))()
+
+
+Velocity Script Bedwars: loadstring(game:HttpGet("https://raw.githubusercontent.com/Copiums/Velocity/main/NewMainScript.lua", true))()
+
+
+Super Power Fighting Simulator: getgenv().chestSpeed = false
+getgenv().luckMultiplier = true
+getgenv().speed_MAY_INCREASE_LAG_IF_TOO_HIGH = 5
+loadstring(game:HttpGet("https://raw.githubusercontent.com/custommoddeller/SuperPowerFightingSimulator/main/FreeUnlocks.lua", true))()
+
+
+Thunder Client Solara Supported: lrm_load_script("dc0fbd1b55234bbd14c5485d574ee722")", true))()
+
+
+Dealership Tycoon: loadstring(game:HttpGet("https://raw.githubusercontent.com/Marco8642/science/main/dealership%20tycoon"))() 
+
+
+King Of The Hill: _G.IceSpam = true
+while wait() and _G.IceSpam do
+    pcall(function()
+        for i, v in pairs(game.Players:GetChildren()) do
+            if v.Name ~= game.Players.LocalPlayer.Name then
+                game:GetService("ReplicatedStorage").Events.createIce:FireServer(v.Character.HumanoidRootPart.CFrame.p)
+           end
+       end
+    end)
+end
+
+
+
+Legends Of Speed: loadstring(game:HttpGet("https://gitlab.com/madsbrriinckbastholm/team-skeet/-/raw/main/Legends-Of-Speed"))()
+
+
+Shoe Simulator: local args = {
+
+   [1] = {
+       [1] = "Equip",
+       [2] = "Ranges",
+       [3] = "Granpa Ring",--Change Anything You Want
+       [4] = true
+   }
+}
+
+game:GetService("ReplicatedStorage").Events.Buy:FireServer(unpack(args))
+
+
+Prison Life: loadstring(game:HttpGet('https://raw.githubusercontent.com/mikeexc/9876/main/Mikeexc'))()
+
+
+Barry Prison Run: loadstring(game:HttpGet("https://raw.githubusercontent.com/Rah-Md/ScriptBarryPrison/main/Loader.lua"))()
+
+
+Slap Battles: loadstring(game:HttpGet("https://raw.githubusercontent.com/ChaosBringerTeam/fytafjkgawjkfgwakijfgawghio8u/main/vqKMWY6x9vSDxzpjhHWTwd8FEaKtIFOD"))()
+
+
+
+Extra Scripts:
+
+Keyboard Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/GGH52lan/GGH52lan/main/keyboard.txt"))()
+
+
+Btools Script: loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/BTools.txt"))()
+
+
+AiSploit Config Bulit In (Is Not Al Sploit): loadstring(game:HttpGet("https://raw.githubusercontent.com/AlSploit/AlSploit/main/MainScript",true))()
+
+
+Streched Res: **getgenv().Resolution = {
+    [".gg/scripters"] = 0.65
+}
+
+local Camera = workspace.CurrentCamera
+if getgenv().gg_scripters == nil then
+    game:GetService("RunService").RenderStepped:Connect(
+        function()
+            Camera.CFrame = Camera.CFrame * CFrame.new(0, 0, 0, 1, 0, 0, 0, getgenv().Resolution[".gg/scripters"], 0, 0, 0, 1)
+        end
+    )
+end
+getgenv().gg_scripters = "Aori0001"**
+
+
+Big Hitbox: loadstring(game:HttpGet("https://raw.githubusercontent.com/Vcsk/RobloxScripts/main/HitboxExpander.lua"))()
+
+
+Anti-Afk: loadstring(game:HttpGet("https://raw.githubusercontent.com/7hbl/anti-afk/main/anti%20afk"))();
+
+
+(DISCLAIMER; NOT ALL SCRIPTS ARE UP TO DATE OR WORK PLEASE CHECK THE LOGS FOR THE WEBSITE FOR THE SCRIPTS!)
+
+
+Configs:
+
+
+Underware bedwars config: https://www.mediafire.com/file/0limvebw53tn2wx/UnderWare_V69_Custom_Private.zip/file?dkey=0limvebw53tn2wx
+
+
+Lunar X config no linkvertise: https://www.mediafire.com/file/66udrfib5v4xwxy/lunar+private+basically+v2.zip/file?dkey=q6ws4spaa9f&r=30
+MediaFire
+
+
+PistonWare: https://cdn.discordapp.com/attachments/1227273726350065805/1248700009902374984/pistonware_latest_booster_.zip?ex=669ca5c2&is=669b5442&hm=86e096f2af1483fb9e522c22c937b26b04d9790edb78188600a5a33fb0f158a0&
